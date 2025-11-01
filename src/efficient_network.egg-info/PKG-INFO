@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: efficient_network
+Version: 0.1.0
+Summary: Design efficient transport networks via quantum annealing.
+Author-email: Chia-Tso Lai <chiatsolai@gmail.com>
+Requires-Python: >=3.9
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: networkx
+Requires-Dist: dwave-ocean-sdk
+Requires-Dist: matplotlib

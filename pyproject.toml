@@ -1,0 +1,20 @@
+[project]
+name = "efficient_network"
+version = "0.1.0"
+description = "Design efficient transport networks via quantum annealing."
+authors = [
+    { name="Chia-Tso Lai", email="chiatsolai@gmail.com" }
+]
+requires-python = ">=3.9"
+
+dependencies = [
+    "numpy",
+    "pandas",
+    "networkx",
+    "dwave-ocean-sdk",
+    "matplotlib",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
