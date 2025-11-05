@@ -19,3 +19,7 @@ To run the optimization using the D-Wave hybrid solver:
 3. Provide the API token in the arguments of the optimization functions.
 
 Example usage can be found in: `demo/efficient_transport_network.ipynb` 
+
+## Gallery:
+![Alt text](pictures/efficient_subnetworks.png)
+![Alt text](pictures/metro_line_plan.png)
